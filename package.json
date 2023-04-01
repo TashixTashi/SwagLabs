@@ -1,0 +1,25 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "description": "This is a web automation project for the following website: https://www.saucedemo.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TashixTashi/SwagLabs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TashixTashi/SwagLabs/issues"
+  },
+  "homepage": "https://github.com/TashixTashi/SwagLabs#readme",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "mochawesome": "^7.1.3"
+  }
+}
