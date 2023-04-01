@@ -28,4 +28,6 @@ Select E2E testing
 
 Select Chrome and start E2E testing
 
-Select the test you eould like to run
+Select the test you would like to run
+
+Use this command to run all tests and report- npx cypress run --spec "cypress/e2e/test" --headed --browser chrome 
